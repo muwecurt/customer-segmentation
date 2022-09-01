@@ -7,7 +7,7 @@ The project uses Python programming language executed in Jupyter Notebooks.
 
 You will need to install various Python libraries to run the code.
 
-If you have not installed Python on your computer, it is advisable to install the Anaconda distribution of Python, which will install most of the packages required to the code easily.
+If you have not installed Python on your computer, it is advisable to install the Anaconda distribution of Python, which will install most of the packages required to run the code easily.
 
 The project follows the steps below;
 
